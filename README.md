@@ -41,7 +41,7 @@ I’m passionate about automating systems with Python and committed to excelling
 ![FastAPI](https://img.shields.io/badge/fastapi-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900?style=flat-square&logo=Amazon%20EC2&logoColor=white)
 ![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=flat-square&logo=Amazon%20S3&logoColor=white)  
-
+![Amazon S3](https://img.shields.io/badge/grafana%F46800?style=flat-square&logo=grafana%20S3&logoColor=white)  
 
 
 
